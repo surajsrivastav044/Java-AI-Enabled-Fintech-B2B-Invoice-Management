@@ -1,4 +1,4 @@
-<p align="center"><img src="Screenshots/php.png" width="350" hight="120" /a></p><br>
+<p align="center"><img src="screenshot/java.png" width="350" hight="120" /a></p><br>
 <h1>Php Library Management System</h1>
  <b>It’s a complete Library Management System built in Php. This
 Library Management System is a computerized system that allows the
