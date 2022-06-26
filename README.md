@@ -1,16 +1,12 @@
-<p align="center"><img src="screenshot/java.jpg" width="350" hight="120" /a></p><br>
-<h1>Php Library Management System</h1>
- <b>It’s a complete Library Management System built in Php. This
-Library Management System is a computerized system that allows the
-admin to access the library and manage accordingly first admin have
-to login them self and after that admin manage the whole library they
-can issue the book to any student and maintain their record . and he
-can also add book if any book comes in stock and admin can change 
-our profile if I say in a word that this project is complete library
-management for any library admin can handle whole the thing by
-digitally they no need to register copy and file. My project library
-management system is build in by using Html5, Css3, JavaScript,
-Bootstrap, MySql database and Php .
+<p align="center"><img src="screenshot/java.jpg" width="350" hight="120" /a></p>
+<h1>AI-Enabled-Fintech-B2B-Invoice-Management-Application</h1>
+ <b>- To build a Full-Stack Invoice Management Application using Bootstrap, JDBC, JAVA, Servlets.<br>
+- Build a responsive Receivables Dashboard.<br>
+- Visualize Data in the form of grids.<br>
+- Visualize Data in the form of graphs.<br>
+- Perform Searching operations on the invoices.<br>
+- Add & Edit data in the editable fields of the grid.<br>
+- Delete data of selected rows in predefined templates.
 </b><br>
  <h2> Quick Start </h2>
  <b>db ---></b> it is database folder <br>
