@@ -8,7 +8,7 @@
 - Add & Edit data in the editable fields of the grid.<br>
 - Delete data of selected rows in predefined templates.
 </b><br>
-## ScreenShots
+ # ScreenShots
 <img src="screenshot/1.PNG" width="100%" /><br /> <br />
 <img src="screenshot/2.PNG" width="100%" /><br /> <br />
 <img src="screenshot/3.PNG" width="100%" /><br /> <br />
